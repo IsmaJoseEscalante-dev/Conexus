@@ -1,8 +1,5 @@
 <?php
 $urlActual = $_SERVER['REQUEST_URI'];
-$search = '/Conexos-master';
-$urlActual = str_replace($search, '.', $urlActual);
-
 
 $listLink = [
     './index.php',
