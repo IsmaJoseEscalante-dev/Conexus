@@ -52,10 +52,10 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="img/carousel-1.jpg" alt="Carousel Image">
+                        <img src="img/logo.jpeg" alt="Carousel Image">
                         <div class="carousel-caption">
-                            <p class="animated fadeInRight">Instalaciones electricas S.R.L</p>
-                            <h1 class="animated fadeInLeft">La mejor experiencia</h1>
+                            <p class="animated fadeInRight">Somos</p>
+                            <h1 class="animated fadeInLeft">Instalaciones eléctricas del noroeste srl</h1>
                             <a class="btn animated fadeInUp" href="https://htmlcodex.com/construction-company-website-template">Get A Quote</a>
                         </div>
                     </div>

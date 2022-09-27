@@ -4,6 +4,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="logo">
                     <a href="index.html">
+                        <h1>Conexus</h1>
                         <img src="img/logo.jpeg" alt="Logo">
                     </a>
                 </div>
