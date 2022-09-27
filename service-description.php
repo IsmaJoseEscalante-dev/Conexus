@@ -55,7 +55,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+            <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="service-item">
                     <div class="service-img">
                         <img src="img/instalacion-de-camaras-de-seguridad.jpg" alt="Image">
@@ -77,7 +77,7 @@
                         <img src="img/service-5.jpg" alt="Image">
                         <div class="service-overlay">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                Proyecto, Dirección, Tecnicas y Montaje
                             </p>
                         </div>
                     </div>
