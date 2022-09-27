@@ -74,7 +74,7 @@
             <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="img/service-5.jpg" alt="Image">
+                        <img src="img/proyectos-electricos.jpg" alt="Image">
                         <div class="service-overlay">
                             <p>
                                 Proyecto, Dirección, Tecnicas y Montaje
@@ -83,7 +83,7 @@
                     </div>
                     <div class="service-text">
                         <h3>Proyecto, Dirección, Tecnicas y Montaje</h3>
-                        <a class="btn" href="img/service-5.jpg" data-lightbox="service">+</a>
+                        <a class="btn" href="img/proyectos-electricos.jpg" data-lightbox="service">+</a>
                     </div>
                 </div>
             </div>
