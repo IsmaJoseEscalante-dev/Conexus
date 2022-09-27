@@ -42,7 +42,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img href="/img/deteccion-humo.jpg" alt="Image">
+                        <img href="img/deteccion-humo.jpg" alt="Image">
                         <div class="service-overlay">
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
@@ -51,7 +51,7 @@
                     </div>
                     <div class="service-text">
                         <h3>Detección de humo</h3>
-                        <a class="btn" href="/img/deteccion-humo.jpg" data-lightbox="service">+</a>
+                        <a class="btn" href="img/deteccion-humo.jpg" data-lightbox="service">+</a>
                     </div>
                 </div>
             </div>
