@@ -8,7 +8,7 @@
             </div>
             <div class="col-lg-7 col-md-6">
                 <div class="section-header text-left">
-                    <p>Bienvenidos a Conexos</p>
+                    <p>Bienvenidos a Instalaciones eléctricas del noroeste srl</p>
                     <h2>Diez años de experiencia</h2>
                 </div>
                 <div class="about-text">
