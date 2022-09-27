@@ -5,7 +5,6 @@
                 <div class="logo">
                     <a href="index.html">
                         <h1>Conexus</h1>
-                        <img src="img/logo.jpeg" alt="Logo">
                     </a>
                 </div>
             </div>
@@ -40,7 +39,7 @@
                             </div>
                             <div class="top-bar-text">
                                 <h3>Email Us</h3>
-                                <p>gerconexos.gmail.com</p>
+                                <p>gerconexos.salta.gmail.com</p>
                             </div>
                         </div>
                     </div>
