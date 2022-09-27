@@ -58,7 +58,7 @@
             <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="img/instalacion-de-camaras-de-seguridad.jpg" alt="Image">
+                        <img src="img/camaras-seguridad.jpg" alt="Image">
                         <div class="service-overlay">
                             <p>
                             Con el servicio Instalación de Cámaras de Seguridad usted tendrá un servicio y una línea de productos de alta calidad, esto permitirá una instalación duradera y confiable.
@@ -67,7 +67,7 @@
                     </div>
                     <div class="service-text">
                         <h3>Camaras de seguridad vigilancia</h3>
-                        <a class="btn" href="img/instalacion-de-camaras-de-seguridad.jpg" data-lightbox="service">+</a>
+                        <a class="btn" href="img/camaras-seguridad.jpg" data-lightbox="service">+</a>
                     </div>
                 </div>
             </div>
