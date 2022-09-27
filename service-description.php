@@ -35,7 +35,7 @@
                     </div>
                     <div class="service-text">
                         <h3>Iluminación</h3>
-                        <a class="btn" href="img/service-2.jpg" data-lightbox="service">+</a>
+                        <a class="btn" href="img/Iluminación-para-oficinas.jpg" data-lightbox="service">+</a>
                     </div>
                 </div>
             </div>
