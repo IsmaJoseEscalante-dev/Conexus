@@ -74,6 +74,7 @@
                                     <div class="contact-text">
                                         <h2>Domicilio</h2>
                                         <p>Catamarca 950, Salta Capital, Argentina</p>
+                                        <p>Avda. Palma Carrillo Nro54, oficina 12, Jujuy, Argentina</p>
                                     </div>
                                 </div>
                                 <div class="contact-item">
@@ -87,7 +88,8 @@
                                     <i class="flaticon-send-mail"></i>
                                     <div class="contact-text">
                                         <h2>Email</h2>
-                                        <p>info@example.com</p>
+                                        <p>gerconexos.salta@gmail.com</p>
+                                        <p>gerconexos@gmail.com</p>
                                     </div>
                                 </div>
                             </div>
