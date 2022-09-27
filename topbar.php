@@ -4,7 +4,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="logo">
                     <a href="index.html">
-                        <h1>Conexos</h1>
+                        <h1>Instalaciones eléctricas del noroeste srl</h1>
                         <!-- <img src="img/logo.jpg" alt="Logo"> -->
                     </a>
                 </div>
@@ -18,7 +18,7 @@
                             </div>
                             <div class="top-bar-text">
                                 <h3>Abierto:</h3>
-                                <p>Lun - Vie, 8:00 - 6:00</p>
+                                <p>Lun - Vie, 9 - 13 y 16 - 19 hs</p>
                             </div>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                             </div>
                             <div class="top-bar-text">
                                 <h3>Email Us</h3>
-                                <p>info@example.com</p>
+                                <p>gerconexos.gmail.com</p>
                             </div>
                         </div>
                     </div>
