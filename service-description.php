@@ -26,7 +26,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="img/service-2.jpg" alt="Image">
+                        <img src="img/Iluminación-para-oficinas.jpg" alt="Image">
                         <div class="service-overlay">
                             <p>
                             Servicio de análisis luminotécnico, estudios de consumo, y soluciones para su optimización.
