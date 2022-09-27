@@ -42,7 +42,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img href="img/deteccionHumo.jpg" alt="Image">
+                        <img src="img/deteccionHumo.jpg" alt="Image">
                         <div class="service-overlay">
                             <p>
                             Los sistemas de detección de incendios son medios muy eficaces para proteger a las personas, las instalaciones, los equipos, los bienes y los materiales de los peligros derivados de un incendio, si son instalados, mantenidos y utilizados adecuadamente.
