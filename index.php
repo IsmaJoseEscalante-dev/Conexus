@@ -73,7 +73,7 @@
                         <img src="img/Imagelogo.jpeg"  alt="Carousel Image">
                         <div class="carousel-caption">
                             <p class="animated fadeInRight">Tenemos sucursal en</p>
-                            <h1 class="animated fadeInLeft">Juju</h1>
+                            <h1 class="animated fadeInLeft">Jujuy</h1>
                             <a class="btn animated fadeInUp" href="https://htmlcodex.com/construction-company-website-template">Ver obras</a>
                         </div>
                     </div>
