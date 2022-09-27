@@ -58,18 +58,16 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="img/service-4.jpg" alt="Image">
+                        <img src="img/instalacion-de-camaras-de-seguridad.jpg" alt="Image">
                         <div class="service-overlay">
                             <p>
-                            Contamos con un equipo profesional, de técnicos proyectistas y dibujantes. 
-                            Diseñamos proyectos eléctricos, pliegos licitatorios, cómputos, cálculos, generamos planos ejecutivos, 
-                            para proyectos de todo tipo.
+                            Con el servicio Instalación de Cámaras de Seguridad usted tendrá un servicio y una línea de productos de alta calidad, esto permitirá una instalación duradera y confiable.
                             </p>
                         </div>
                     </div>
                     <div class="service-text">
-                        <h3>Proyecto, Direción Técnica</h3>
-                        <a class="btn" href="img/service-4.jpg" data-lightbox="service">+</a>
+                        <h3>Camaras de seguridad vigilancia</h3>
+                        <a class="btn" href="img/instalacion-de-camaras-de-seguridad.jpg" data-lightbox="service">+</a>
                     </div>
                 </div>
             </div>
