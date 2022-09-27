@@ -26,7 +26,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="img/Iluminación-para-oficinas.jpg" alt="Image">
+                        <img src="img/iluminacion.jpg" alt="Image">
                         <div class="service-overlay">
                             <p>
                             Servicio de análisis luminotécnico, estudios de consumo, y soluciones para su optimización.
@@ -35,7 +35,7 @@
                     </div>
                     <div class="service-text">
                         <h3>Iluminación</h3>
-                        <a class="btn" href="img/Iluminación-para-oficinas.jpg" data-lightbox="service">+</a>
+                        <a class="btn" href="img/iluminacion.jpg" data-lightbox="service">+</a>
                     </div>
                 </div>
             </div>
