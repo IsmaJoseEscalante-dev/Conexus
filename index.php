@@ -52,7 +52,7 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="img/logo.jpeg" alt="Carousel Image">
+                        <img src="img/Imagelogo.jpeg" alt="Carousel Image">
                         <div class="carousel-caption">
                             <p class="animated fadeInRight">Somos</p>
                             <h1 class="animated fadeInLeft">Instalaciones eléctricas del noroeste srl</h1>
