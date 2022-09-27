@@ -4,7 +4,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="logo">
                     <a href="index.html">
-                        <h3>Instalaciones eléctricas del noroeste srl</h3>
+                        <h2>Instalaciones eléctricas del noroeste srl</h2>
                     </a>
                 </div>
             </div>
