@@ -61,20 +61,20 @@
                     </div>
 
                     <div class="carousel-item">
-                        <img src="img/carousel-2.jpg" alt="Carousel Image">
+                        <img src="img/Imagelogo.jpeg"  alt="Carousel Image">
                         <div class="carousel-caption">
-                            <p class="animated fadeInRight">Somo expertos</p>
-                            <h1 class="animated fadeInLeft">El mejor servicio</h1>
+                            <p class="animated fadeInRight">Estamos en </p>
+                            <h1 class="animated fadeInLeft">Salta capital</h1>
                             <a class="btn animated fadeInUp" href="https://htmlcodex.com/construction-company-website-template">Get A Quote</a>
                         </div>
                     </div>
 
                     <div class="carousel-item">
-                        <img src="img/carousel-3.jpg" alt="Carousel Image">
+                        <img src="img/Imagelogo.jpeg"  alt="Carousel Image">
                         <div class="carousel-caption">
-                            <p class="animated fadeInRight">We Are Trusted</p>
-                            <h1 class="animated fadeInLeft">For Your Dream Home</h1>
-                            <a class="btn animated fadeInUp" href="https://htmlcodex.com/construction-company-website-template">Get A Quote</a>
+                            <p class="animated fadeInRight">Tenemos sucursal en</p>
+                            <h1 class="animated fadeInLeft">Juju</h1>
+                            <a class="btn animated fadeInUp" href="https://htmlcodex.com/construction-company-website-template">Ver obras</a>
                         </div>
                     </div>
                 </div>
