@@ -4,8 +4,8 @@
             <div class="col-lg-4 col-md-12">
                 <div class="logo">
                     <a href="index.html">
-                        <h6>Instalaciones eléctricas del noroeste srl</h6>
-                        <!-- <img src="img/logo.jpg" alt="Logo"> -->
+                        <h4>Instalaciones eléctricas del noroeste srl</h4>
+                        <img src="img/logo.jpeg" alt="Logo">
                     </a>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                             </div>
                             <div class="top-bar-text">
                                 <h3>Comunicate:</h3>
-                                <p>+012 345 6789</p>
+                                <p>3886822937</p>
                             </div>
                         </div>
                     </div>
