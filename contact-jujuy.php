@@ -5,8 +5,7 @@
                 <i class="flaticon-address"></i>
                 <div class="contact-text">
                     <h2>Domicilio</h2>
-                    <p>Catamarca 950, Salta Capital, Argentina</p>
-                    <p>Avda. Palma Carrillo Nro54, oficina 12, Jujuy, Argentina</p>
+                    <p>Alférez Valko N°165-Alto Comedero, 4600, San Salvador de Jujuy-Argentina</p>
                 </div>
             </div>
             <div class="contact-item">

@@ -6,7 +6,6 @@
                 <div class="contact-text">
                     <h2>Domicilio</h2>
                     <p>Catamarca 950, Salta Capital, Argentina</p>
-                    <p>Avda. Palma Carrillo Nro54, oficina 12, Jujuy, Argentina</p>
                 </div>
             </div>
             <div class="contact-item">
