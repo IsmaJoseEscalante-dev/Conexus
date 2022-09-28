@@ -1,12 +1,11 @@
 <?php
 $urlActual = $_SERVER['REQUEST_URI'];
-var_dump($urlActual);
 $listLink = [
-    'index.php',
-    'about.php',
-    './service.php',
+    '/index.php',
+    '/about.php',
+    '/service.php',
     '#customers',
-    './contact.php'
+    '/contact.php'
 ];
 
 $listName = [
