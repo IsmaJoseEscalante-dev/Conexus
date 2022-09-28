@@ -68,10 +68,10 @@
                     </div>
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link active btn" id="salta-tab" data-toggle="tab" data-target="#salta" type="button" role="tab" aria-controls="salta" aria-selected="true">Salta</button>
+                            <button class="nav-link active" id="salta-tab" data-toggle="tab" data-target="#salta" type="button" role="tab" aria-controls="salta" aria-selected="true">Salta</button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link btn" id="jujuy-tab" data-toggle="tab" data-target="#jujuy" type="button" role="tab" aria-controls="jujuy" aria-selected="false">Jujuy</button>
+                            <button class="nav-link" id="jujuy-tab" data-toggle="tab" data-target="#jujuy" type="button" role="tab" aria-controls="jujuy" aria-selected="false">Jujuy</button>
                         </li>
                         </ul>
                     <div class="tab-content" id="myTabContent">
