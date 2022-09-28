@@ -17,7 +17,7 @@
                             </div>
                             <div class="top-bar-text">
                                 <h3>Abierto:</h3>
-                                <p>Lun - Vie, 9 - 13 y 16 - 19 hs</p>
+                                <p>Lun - Vie, 9 - 18 hs</p>
                             </div>
                         </div>
                     </div>
