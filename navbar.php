@@ -1,9 +1,9 @@
 <?php
 $urlActual = $_SERVER['REQUEST_URI'];
-
+var_dump($urlActual);
 $listLink = [
-    './index.php',
-    './about.php',
+    'index.php',
+    'about.php',
     './service.php',
     '#customers',
     './contact.php'
