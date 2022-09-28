@@ -66,61 +66,19 @@
                         <p>Póngase en contacto</p>
                         <h2>Por cualquier consulta</h2>
                     </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="contact-info">
-                                <div class="contact-item">
-                                    <i class="flaticon-address"></i>
-                                    <div class="contact-text">
-                                        <h2>Domicilio</h2>
-                                        <p>Catamarca 950, Salta Capital, Argentina</p>
-                                        <p>Avda. Palma Carrillo Nro54, oficina 12, Jujuy, Argentina</p>
-                                    </div>
-                                </div>
-                                <div class="contact-item">
-                                    <i class="flaticon-call"></i>
-                                    <div class="contact-text">
-                                        <h2>Telefono/Celular</h2>
-                                        <p>+012 345 67890</p>
-                                    </div>
-                                </div>
-                                <div class="contact-item">
-                                    <i class="flaticon-send-mail"></i>
-                                    <div class="contact-text">
-                                        <h2>Email</h2>
-                                        <p>gerconexos.salta@gmail.com</p>
-                                        <p>gerconexos@gmail.com</p>
-                                    </div>
-                                </div>
-                            </div>
+                    <ul class="nav nav-tabs" id="myTab" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link active" id="salta-tab" data-toggle="tab" data-target="#salta" type="button" role="tab" aria-controls="salta" aria-selected="true">Salta</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="jujuy-tab" data-toggle="tab" data-target="#jujuy" type="button" role="tab" aria-controls="jujuy" aria-selected="false">Jujuy</button>
+                        </li>
+                        </ul>
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="salta" role="tabpanel" aria-labelledby="salta-tab"><?php include('./contact-salta.php') ?></div>
+                            <div class="tab-pane fade" id="jujuy" role="tabpanel" aria-labelledby="jujuy-tab"><?php include('./contact-jujuy.php') ?></div>
                         </div>
-                        <div class="col-md-6">
-                            <div class="contact-form">
-                                <div id="success"></div>
-                                <form name="sentMessage" id="contactForm" novalidate="novalidate">
-                                    <div class="control-group">
-                                        <input type="text" class="form-control" id="name" placeholder="Ingrese nombre" required="required" data-validation-required-message="Please enter your name" />
-                                        <p class="help-block text-danger"></p>
-                                    </div>
-                                    <div class="control-group">
-                                        <input type="email" class="form-control" id="email" placeholder="Ingrese email" required="required" data-validation-required-message="Please enter your email" />
-                                        <p class="help-block text-danger"></p>
-                                    </div>
-                                    <div class="control-group">
-                                        <input type="text" class="form-control" id="subject" placeholder="Asunto" required="required" data-validation-required-message="Please enter a subject" />
-                                        <p class="help-block text-danger"></p>
-                                    </div>
-                                    <div class="control-group">
-                                        <textarea class="form-control" id="message" placeholder="Mensage" required="required" data-validation-required-message="Please enter your message"></textarea>
-                                        <p class="help-block text-danger"></p>
-                                    </div>
-                                    <div>
-                                        <button class="btn" type="submit" id="sendMessageButton">Enviar mensaje</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
             </div>
             <!-- Contact End -->

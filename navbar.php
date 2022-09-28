@@ -4,7 +4,6 @@ $listLink = [
     '/index.php',
     '/about.php',
     '/service.php',
-    '#customers',
     '/contact.php'
 ];
 
@@ -12,7 +11,6 @@ $listName = [
     'Inicio',
     '¿Quiénes Somos? ',
     'Servicio',
-    'Clientes',
     'Contacto'
 ];   
 ?>
