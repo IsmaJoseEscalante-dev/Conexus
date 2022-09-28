@@ -12,8 +12,7 @@
                 <i class="flaticon-call"></i>
                 <div class="contact-text">
                     <h2>Telefono/Celular</h2>
-                    <p>+549 387 4238953</p>
-                    <p>+549 387 4232173</p>
+                    <p>+549 388 6822937</p>
                 </div>
             </div>
             <div class="contact-item">
