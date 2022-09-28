@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Conexos - Instalaciones eléctricas del noroeste srl</title>
+        <title>Conexos - Instalaciones Eléctricas del Noroeste S.R.L</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="Construction Company Website Template" name="keywords">
         <meta content="Construction Company Website Template" name="description">

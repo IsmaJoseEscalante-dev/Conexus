@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Conexos - Instalaciones eléctricas del noroeste srl</title>
+        <title>Conexos - Instalaciones Eléctricas del Noroeste S.R.L</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="Construction Company Website Template" name="keywords">
         <meta content="Construction Company Website Template" name="description">
@@ -55,7 +55,7 @@
                         <img src="img/Imagelogo.jpeg" alt="Carousel Image">
                         <div class="carousel-caption">
                             <p class="animated fadeInRight">Somos</p>
-                            <h1 class="animated fadeInLeft">Instalaciones eléctricas del noroeste srl</h1>
+                            <h1 class="animated fadeInLeft">Instalaciones Eléctricas del Noroeste S.R.L</h1>
                             <a class="btn animated fadeInUp" href="https://htmlcodex.com/construction-company-website-template">Ver obras</a>
                         </div>
                     </div>
