@@ -12,7 +12,8 @@
                 <i class="flaticon-call"></i>
                 <div class="contact-text">
                     <h2>Telefono/Celular</h2>
-                    <p>+012 345 67890</p>
+                    <p>+549 387 4238953</p>
+                    <p>+549 387 4232173</p>
                 </div>
             </div>
             <div class="contact-item">
@@ -20,7 +21,6 @@
                 <div class="contact-text">
                     <h2>Email</h2>
                     <p>gerconexos.salta@gmail.com</p>
-                    <p>gerconexos@gmail.com</p>
                 </div>
             </div>
         </div>
