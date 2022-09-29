@@ -25,22 +25,19 @@
             <div class="col-md-6 col-lg-3">
                 <div class="footer-link">
                     <h2>Páginas</h2>
-                    <a href="">Inicio</a>
-                    <a href="">¿Quíenes somos?</a>
-                    <a href="">Servicios</a>
-                    <a href="">Contacto</a>
+                    <a href="./index.php">Inicio</a>
+                    <a href="./about.php">¿Quíenes somos?</a>
+                    <a href="./service.php">Servicios</a>
+                    <a href="./contact.php">Contacto</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
-                <div class="newsletter">
-                    <h2>Escribino</h2>
-                    <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu
-                    </p>
-                    <div class="form">
-                        <input class="form-control" placeholder="Email here">
-                        <button class="btn">Submit</button>
-                    </div>
+            <div class="footer-link">
+                    <h2>Servicios</h2>
+                    <a href="./service.php">Instalaciones Eléctricas</a>
+                    <a href="./service.php">Iluminación</a>
+                    <a href="./service.php">Detección de humo y Cctv</a>
+                    <a href="./service.php">Proyecto, Dirección, Tecnicas y Montaje</a>
                 </div>
             </div>
         </div>
