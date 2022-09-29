@@ -45,7 +45,7 @@
                     <p class="help-block text-danger"></p>
                 </div>
                 <div>
-                    <button class="btn" type="submit" id="sendMessageButton">Enviar mensaje</button>
+                    <button class="btn" type="submit">Enviar mensaje</button>
                 </div>
             </form>
         </div>

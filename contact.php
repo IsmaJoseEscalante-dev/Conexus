@@ -66,18 +66,22 @@
                         <p>Póngase en contacto</p>
                         <h2>Por cualquier consulta</h2>
                     </div>
-                    <ul class="nav nav-tabs" id="myTab" role="tablist">
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link active" id="salta-tab" data-toggle="tab" data-target="#salta" type="button" role="tab" aria-controls="salta" aria-selected="true">Salta</button>
-                        </li>
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="jujuy-tab" data-toggle="tab" data-target="#jujuy" type="button" role="tab" aria-controls="jujuy" aria-selected="false">Jujuy</button>
-                        </li>
+                    <div class="d-flex justify-content-center">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" id="salta-tab" data-toggle="tab" data-target="#salta" type="button" role="tab" aria-controls="salta" aria-selected="true">Contacto Salta</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="jujuy-tab" data-toggle="tab" data-target="#jujuy" type="button" role="tab" aria-controls="jujuy" aria-selected="false">Contacto Jujuy</button>
+                            </li>
                         </ul>
-                    <div class="tab-content" id="myTabContent">
-                        <div class="tab-pane fade show active" id="salta" role="tabpanel" aria-labelledby="salta-tab"><?php include('./contact-salta.php') ?></div>
-                        <div class="tab-pane fade" id="jujuy" role="tabpanel" aria-labelledby="jujuy-tab"><?php include('./contact-jujuy.php') ?></div>
-                    </div>
+                        </div>
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="salta" role="tabpanel" aria-labelledby="salta-tab"><?php include('./contact-salta.php') ?></div>
+                            <div class="tab-pane fade" id="jujuy" role="tabpanel" aria-labelledby="jujuy-tab"><?php include('./contact-jujuy.php') ?></div>
+                        </div>
+                   
+                    
 
                 </div>
             </div>

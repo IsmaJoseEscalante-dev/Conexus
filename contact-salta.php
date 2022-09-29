@@ -46,7 +46,7 @@
                     <p class="help-block text-danger"></p>
                 </div>
                 <div>
-                    <button class="btn" type="submit" id="sendMessageButton">Enviar mensaje</button>
+                    <button class="btn animated fadeInUp" type="submit" id="sendMessageButton">Enviar mensaje</button>
                 </div>
             </form>
         </div>
