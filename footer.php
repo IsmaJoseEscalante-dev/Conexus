@@ -4,27 +4,25 @@
         <div class="row">
             <div class="col-md-6 col-lg-3">
                 <div class="footer-contact">
-                    <h2>Oficina de Contacto</h2>
-                    <p><i class="fa fa-map-marker-alt"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt"></i>+012 345 67890</p>
-                    <p><i class="fa fa-envelope"></i>info@example.com</p>
+                    <h2>Oficina en Salta</h2>
+                    <p><i class="fa fa-map-marker-alt"></i>Catamarca 950, Salta Capital</p>
+                    <p><i class="fa fa-phone-alt"></i>+549 387 42389530</p>
+                    <p><i class="fa fa-envelope"></i>gerconexos.salta@gmail.com</p>
                     <div class="footer-social">
                         <a href=""><i class="fab fa-twitter"></i></a>
-                        <a href="https://web.facebook.com/profile.php?id=100067112230175"><i class="fab fa-facebook-f"></i></a>
+                        <a target="_blank" href="https://web.facebook.com/profile.php?id=100067112230175"><i class="fab fa-facebook-f"></i></a>
                         <a href=""><i class="fab fa-youtube"></i></a>
-                        <a href="https://www.instagram.com/inst.electricasdelnoroeste/"><i class="fab fa-instagram"></i></a>
+                        <a target="_blank" href="https://www.instagram.com/inst.electricasdelnoroeste/"><i class="fab fa-instagram"></i></a>
                         <a href=""><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
-                <div class="footer-link">
-                    <h2>Services Areas</h2>
-                    <a href="">Building Construction</a>
-                    <a href="">House Renovation</a>
-                    <a href="">Architecture Design</a>
-                    <a href="">Interior Design</a>
-                    <a href="">Painting</a>
+            <div class="footer-contact">
+                    <h2>Oficina en Jujuy</h2>
+                    <p><i class="fa fa-map-marker-alt"></i>Alférez Valko N°165-Alto Comedero, 4600, San Salvador de Jujuy</p>
+                    <p><i class="fa fa-phone-alt"></i>+549 388 68229370</p>
+                    <p><i class="fa fa-envelope"></i>gerconexos@gmail.com</p>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">

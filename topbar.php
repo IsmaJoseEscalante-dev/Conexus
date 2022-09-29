@@ -39,7 +39,7 @@
                             </div>
                             <div class="top-bar-text">
                                 <h3>Email Us</h3>
-                                <p>gerconexos.salta.gmail.com</p>
+                                <p>inst.electricasdelnoroeste@gmail.com</p>
                             </div>
                         </div>
                     </div>
