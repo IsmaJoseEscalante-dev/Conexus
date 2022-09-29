@@ -27,17 +27,16 @@
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="footer-link">
-                    <h2>Useful Pages</h2>
-                    <a href="">About Us</a>
-                    <a href="">Contact Us</a>
-                    <a href="">Our Team</a>
-                    <a href="">Projects</a>
-                    <a href="">Testimonial</a>
+                    <h2>Páginas</h2>
+                    <a href="">Inicio</a>
+                    <a href="">¿Quíenes somos?</a>
+                    <a href="">Servicios</a>
+                    <a href="">Contacto</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="newsletter">
-                    <h2>Newsletter</h2>
+                    <h2>Escribino</h2>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu
                     </p>
