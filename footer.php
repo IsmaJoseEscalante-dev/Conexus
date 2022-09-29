@@ -9,11 +9,8 @@
                     <p><i class="fa fa-phone-alt"></i>+549 387 42389530</p>
                     <p><i class="fa fa-envelope"></i>gerconexos.salta@gmail.com</p>
                     <div class="footer-social">
-                        <a href=""><i class="fab fa-twitter"></i></a>
                         <a target="_blank" href="https://web.facebook.com/profile.php?id=100067112230175"><i class="fab fa-facebook-f"></i></a>
-                        <a href=""><i class="fab fa-youtube"></i></a>
                         <a target="_blank" href="https://www.instagram.com/inst.electricasdelnoroeste/"><i class="fab fa-instagram"></i></a>
-                        <a href=""><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
             </div>
