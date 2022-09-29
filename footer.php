@@ -10,9 +10,9 @@
                     <p><i class="fa fa-envelope"></i>info@example.com</p>
                     <div class="footer-social">
                         <a href=""><i class="fab fa-twitter"></i></a>
-                        <a href=""><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://web.facebook.com/profile.php?id=100067112230175"><i class="fab fa-facebook-f"></i></a>
                         <a href=""><i class="fab fa-youtube"></i></a>
-                        <a href=""><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.instagram.com/inst.electricasdelnoroeste/"><i class="fab fa-instagram"></i></a>
                         <a href=""><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
