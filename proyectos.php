@@ -4,17 +4,12 @@
             <div class="blog-img">
                 <img src="img/blog-1.jpg" alt="Image">
             </div>
-            <div class="blog-title">
-                <h3>Lorem ipsum dolor sit</h3>
-                <a class="btn" href="">+</a>
-            </div>
             <div class="blog-meta">
-                <p>By<a href="">Admin</a></p>
-                <p>In<a href="">Construction</a></p>
+                <p>Fecha:<a href="">02/04/2022</a></p>
             </div>
             <div class="blog-text">
                 <p>
-                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
+                ILUMINACIÓN PARA BARRIO PEREYRA ROZAS
                 </p>
             </div>
         </div>
@@ -24,17 +19,12 @@
             <div class="blog-img">
                 <img src="img/blog-2.jpg" alt="Image">
             </div>
-            <div class="blog-title">
-                <h3>Lorem ipsum dolor sit</h3>
-                <a class="btn" href="">+</a>
-            </div>
             <div class="blog-meta">
-                <p>By<a href="">Admin</a></p>
-                <p>In<a href="">Construction</a></p>
+                <p>Fecha:<a href="">01/01/2021</a></p>
             </div>
             <div class="blog-text">
                 <p>
-                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
+                Aeropuerto Internacional Horacio Guzmán, en Jujuy
                 </p>
             </div>
         </div>
@@ -44,17 +34,13 @@
             <div class="blog-img">
                 <img src="img/blog-3.jpg" alt="Image">
             </div>
-            <div class="blog-title">
-                <h3>Lorem ipsum dolor sit</h3>
-                <a class="btn" href="">+</a>
-            </div>
             <div class="blog-meta">
                 <p>By<a href="">Admin</a></p>
-                <p>In<a href="">Construction</a></p>
+                <p>Fecha:<a href="">01/08/2021</a></p>
             </div>
             <div class="blog-text">
                 <p>
-                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
+                    Consultorios de médicos - Swiss Medical
                 </p>
             </div>
         </div>
