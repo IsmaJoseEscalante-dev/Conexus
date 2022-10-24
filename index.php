@@ -65,7 +65,7 @@
                         <div class="carousel-caption">
                             <p class="animated fadeInRight">Estamos en </p>
                             <h1 class="animated fadeInLeft">Salta capital</h1>
-                            <a class="btn animated fadeInUp" href="https://htmlcodex.com/construction-company-website-template">Get A Quote</a>
+                            <a class="btn animated fadeInUp" href="./contact.php?city=salta">Contactanos</a>
                         </div>
                     </div>
 
@@ -74,7 +74,7 @@
                         <div class="carousel-caption">
                             <p class="animated fadeInRight">Tenemos sucursal en</p>
                             <h1 class="animated fadeInLeft">Jujuy</h1>
-                            <a class="btn animated fadeInUp" href="https://htmlcodex.com/construction-company-website-template">Ver obras</a>
+                            <a class="btn animated fadeInUp" href="./contact.php?city=jujuy">Contactanos</a>
                         </div>
                     </div>
                 </div>

@@ -2,8 +2,23 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-5 col-md-6">
+                <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active" data-interval="10000">
+                        <img src="img/biblioteca_archivo.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" data-interval="10000">
+                        <!-- <img src="img/about.jpg" alt="Image"> -->
+                        <img src="img/hotel_alejandro.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" data-interval="10000">
+                        <!-- <img src="img/about.jpg" alt="Image"> -->
+                        <img src="img/alto_noa.jpg" class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                </div>
                 <div class="about-img">
-                    <img src="img/about.jpg" alt="Image">
+                    
                 </div>
             </div>
             <div class="col-lg-7 col-md-6">

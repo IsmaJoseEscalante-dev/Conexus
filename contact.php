@@ -1,3 +1,6 @@
+<?php
+    $city = var_dump($_GET['city']) ;
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -69,7 +72,18 @@
                     <div class="d-flex justify-content-center">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="salta-tab" data-toggle="tab" data-target="#salta" type="button" role="tab" aria-controls="salta" aria-selected="true">Contacto Salta</button>
+                                <button 
+                                    class="nav-link active" 
+                                    id="salta-tab" 
+                                    data-toggle="tab" 
+                                    data-target="#salta" 
+                                    type="button" 
+                                    role="tab" 
+                                    aria-controls="salta" 
+                                    aria-selected="true"
+                                >
+                                Contacto Salta
+                                </button>
                             </li>
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link" id="jujuy-tab" data-toggle="tab" data-target="#jujuy" type="button" role="tab" aria-controls="jujuy" aria-selected="false">Contacto Jujuy</button>
