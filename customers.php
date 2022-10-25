@@ -3,10 +3,10 @@
         <div class="row">
             <div class="col-12">
                 <div class="testimonial-slider-nav">
-                    <div class="slider-nav img-fluid"><img src="img/rac.png"  alt="Testimonial"></div>
-                    <div class="slider-nav img-fluid"><img src="img/bmi.png"  alt="Testimonial"></div>
-                    <div class="slider-nav img-fluid"><img src="img/oysingenieria.png"  alt="Testimonial"></div>
-                    <div class="slider-nav img-fluid"><img src="img/oysingenieria.png"  alt="Testimonial"></div>
+                    <div class="slider-nav"><img class="img-fluid rounded-circle"src="img/rac.png"  alt="Testimonial"></div>
+                    <div class="slider-nav"><img class="img-fluid rounded-circle"src="img/bmi.png"  alt="Testimonial"></div>
+                    <div class="slider-nav"><img class="img-fluid rounded-circle"src="img/proyectoNorte.jpeg"  alt="Testimonial"></div>
+                    <div class="slider-nav"><img class="img-fluid rounded-circle"src="img/oysingenieria.png"  alt="Testimonial"></div>
                 </div>
             </div>
         </div>
@@ -24,9 +24,9 @@
                         <p>BMI desarrolla obras civiles e industriales, desde estudios iniciales de factibilidad hasta el proyecto final, completamente ejecutado.</p>
                     </div>
                     <div class="slider-item">
-                        <h3>OyS ingenieria</h3>
+                        <h3>Proyecto Norte</h3>
                         <h4>Nuestro cliente</h4>
-                        <p>Puede desarrollar y construir llave en mano proyectos de todo tipo, respetando los estándares técnicos, legales y de medio ambiente, en distintos campos de la ingeniería como ser</p>
+                        <p>Proyecto Norte SRL es una empresa cuyo objetivo principal es ofrecer un servicio para desarrollos inmobiliarios urbanos y sub-urbanos. </p>
                     </div>
                     <div class="slider-item">
                         <h3>OyS ingenieria</h3>
