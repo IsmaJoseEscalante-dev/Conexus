@@ -56,7 +56,7 @@
                         <div class="carousel-caption">
                             <p class="animated fadeInRight">Somos</p>
                             <h1 class="animated fadeInLeft">Instalaciones Eléctricas del Noroeste S.R.L</h1>
-                            <a class="btn animated fadeInUp" href="https://htmlcodex.com/construction-company-website-template">Ver obras</a>
+                            <a class="btn animated fadeInUp" href="#proyectos">Ver obras</a>
                         </div>
                     </div>
 
@@ -129,7 +129,7 @@
 
 
             <!-- Blog Start -->
-            <div class="blog">
+            <div id="proyectos" class="blog">
                 <div class="container">
                     <div class="section-header text-center">
                         <p>Nuestros proyectos</p>
