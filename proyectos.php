@@ -19,7 +19,7 @@
                         </div>
                         <div class="blog-text">
                             <p>
-                            <a href=""><?php echo $row['proy_nom'] ?></a>
+                            <a href="./proyecto.php?name=<?php echo $row['proy_nom'] ?>"><?php echo $row['proy_nom'] ?></a>
                             </p>
                         </div>
                     </div>
